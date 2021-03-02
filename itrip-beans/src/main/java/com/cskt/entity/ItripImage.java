@@ -4,222 +4,82 @@ import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import java.io.Serializable;
 import java.util.Date;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 /**
     * 图片表
     */
+@ApiModel(value="com-cskt-entity-ItripImage")
+@Data
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
 @TableName(value = "itrip_image")
-public class ItripImage {
+public class ItripImage implements Serializable {
     /**
      * 主键
      */
     @TableId(value = "id", type = IdType.AUTO)
+    @ApiModelProperty(value="主键")
     private Long id;
 
     /**
      * 图片类型(0:酒店图片1:房间图片2:评论图片)
      */
     @TableField(value = "type")
+    @ApiModelProperty(value="图片类型(0:酒店图片1:房间图片2:评论图片)")
     private String type;
 
     /**
      * 关联id
      */
     @TableField(value = "target_id")
+    @ApiModelProperty(value="关联id")
     private Long targetId;
 
     /**
      * 图片s上传顺序位置
      */
     @TableField(value = "position")
+    @ApiModelProperty(value="图片s上传顺序位置")
     private Integer position;
 
     /**
      * 图片地址
      */
     @TableField(value = "img_url")
+    @ApiModelProperty(value="图片地址")
     private String imgUrl;
 
     @TableField(value = "creation_date")
+    @ApiModelProperty(value="")
     private Date creationDate;
 
     @TableField(value = "created_by")
+    @ApiModelProperty(value="")
     private Long createdBy;
 
     @TableField(value = "modify_date")
+    @ApiModelProperty(value="")
     private Date modifyDate;
 
     @TableField(value = "modified_by")
+    @ApiModelProperty(value="")
     private Long modifiedBy;
 
     /**
      * 逻辑删除（0:未删除；1：删除）
      */
     @TableField(value = "is_deleted")
+    @ApiModelProperty(value="逻辑删除（0:未删除；1：删除）")
     private Integer isDeleted;
 
-    /**
-     * 获取主键
-     *
-     * @return id - 主键
-     */
-    public Long getId() {
-        return id;
-    }
-
-    /**
-     * 设置主键
-     *
-     * @param id 主键
-     */
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    /**
-     * 获取图片类型(0:酒店图片1:房间图片2:评论图片)
-     *
-     * @return type - 图片类型(0:酒店图片1:房间图片2:评论图片)
-     */
-    public String getType() {
-        return type;
-    }
-
-    /**
-     * 设置图片类型(0:酒店图片1:房间图片2:评论图片)
-     *
-     * @param type 图片类型(0:酒店图片1:房间图片2:评论图片)
-     */
-    public void setType(String type) {
-        this.type = type;
-    }
-
-    /**
-     * 获取关联id
-     *
-     * @return target_id - 关联id
-     */
-    public Long getTargetId() {
-        return targetId;
-    }
-
-    /**
-     * 设置关联id
-     *
-     * @param targetId 关联id
-     */
-    public void setTargetId(Long targetId) {
-        this.targetId = targetId;
-    }
-
-    /**
-     * 获取图片s上传顺序位置
-     *
-     * @return position - 图片s上传顺序位置
-     */
-    public Integer getPosition() {
-        return position;
-    }
-
-    /**
-     * 设置图片s上传顺序位置
-     *
-     * @param position 图片s上传顺序位置
-     */
-    public void setPosition(Integer position) {
-        this.position = position;
-    }
-
-    /**
-     * 获取图片地址
-     *
-     * @return img_url - 图片地址
-     */
-    public String getImgUrl() {
-        return imgUrl;
-    }
-
-    /**
-     * 设置图片地址
-     *
-     * @param imgUrl 图片地址
-     */
-    public void setImgUrl(String imgUrl) {
-        this.imgUrl = imgUrl;
-    }
-
-    /**
-     * @return creation_date
-     */
-    public Date getCreationDate() {
-        return creationDate;
-    }
-
-    /**
-     * @param creationDate
-     */
-    public void setCreationDate(Date creationDate) {
-        this.creationDate = creationDate;
-    }
-
-    /**
-     * @return created_by
-     */
-    public Long getCreatedBy() {
-        return createdBy;
-    }
-
-    /**
-     * @param createdBy
-     */
-    public void setCreatedBy(Long createdBy) {
-        this.createdBy = createdBy;
-    }
-
-    /**
-     * @return modify_date
-     */
-    public Date getModifyDate() {
-        return modifyDate;
-    }
-
-    /**
-     * @param modifyDate
-     */
-    public void setModifyDate(Date modifyDate) {
-        this.modifyDate = modifyDate;
-    }
-
-    /**
-     * @return modified_by
-     */
-    public Long getModifiedBy() {
-        return modifiedBy;
-    }
-
-    /**
-     * @param modifiedBy
-     */
-    public void setModifiedBy(Long modifiedBy) {
-        this.modifiedBy = modifiedBy;
-    }
-
-    /**
-     * 获取逻辑删除（0:未删除；1：删除）
-     *
-     * @return is_deleted - 逻辑删除（0:未删除；1：删除）
-     */
-    public Integer getIsDeleted() {
-        return isDeleted;
-    }
-
-    /**
-     * 设置逻辑删除（0:未删除；1：删除）
-     *
-     * @param isDeleted 逻辑删除（0:未删除；1：删除）
-     */
-    public void setIsDeleted(Integer isDeleted) {
-        this.isDeleted = isDeleted;
-    }
+    private static final long serialVersionUID = 1L;
 }

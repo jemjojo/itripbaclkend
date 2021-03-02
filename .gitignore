@@ -29,3 +29,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/itrip-beans/src/main/java/com/cskt/entity/
