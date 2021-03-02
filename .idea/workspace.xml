@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c442e154-365f-4502-a863-6802b6998ddb" name="Default Changelist" comment="添加api标签">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ce4a0f90-ce67-42cc-89a5-ca7f2c1649fa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ce4a0f90-ce67-42cc-89a5-ca7f2c1649fa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripAreaDic.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripAreaDic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripComment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelExtendProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelExtendProperty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelFeature.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelFeature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelTempStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelTempStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelTradingArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelTradingArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripLabelDic.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripLabelDic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripOrderLinkUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripOrderLinkUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripProductStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripProductStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripUserLinkUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripUserLinkUser.java" afterDir="false" />
-    </list>
+    <list default="true" id="c442e154-365f-4502-a863-6802b6998ddb" name="Default Changelist" comment="添加api标签" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +84,7 @@
       <workItem from="1614394949159" duration="420000" />
       <workItem from="1614395382745" duration="668000" />
       <workItem from="1614396065860" duration="10811000" />
-      <workItem from="1614561174886" duration="16769000" />
+      <workItem from="1614561174886" duration="17150000" />
     </task>
     <task id="LOCAL-00001" summary="添加api标签">
       <created>1614653641039</created>
@@ -111,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614653641039</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加api标签">
+      <created>1614654671642</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614654671642</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
