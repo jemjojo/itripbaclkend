@@ -86,24 +86,39 @@ public class ItripAreaDic implements Serializable {
     @ApiModelProperty(value="1:国内 2：国外")
     private Integer isChina;
 
+    /**
+     * 拼音
+     */
     @TableField(value = "pinyin")
-    @ApiModelProperty(value="")
+    @ApiModelProperty(value="拼音")
     private String pinyin;
 
+    /**
+     * 创建时间
+     */
     @TableField(value = "creation_date")
-    @ApiModelProperty(value="")
+    @ApiModelProperty(value="创建时间")
     private Date creationDate;
 
+    /**
+     * 创建人
+     */
     @TableField(value = "created_by")
-    @ApiModelProperty(value="")
+    @ApiModelProperty(value="创建人")
     private Long createdBy;
 
+    /**
+     * 修改时间
+     */
     @TableField(value = "modify_date")
-    @ApiModelProperty(value="")
+    @ApiModelProperty(value="修改时间")
     private Date modifyDate;
 
+    /**
+     * 修改人
+     */
     @TableField(value = "modified_by")
-    @ApiModelProperty(value="")
+    @ApiModelProperty(value="修改人")
     private Long modifiedBy;
 
     /**

@@ -192,8 +192,11 @@ public class ItripHotelOrder implements Serializable {
     @ApiModelProperty(value="预定时间")
     private Date creationDate;
 
+    /**
+     * 创建人
+     */
     @TableField(value = "created_by")
-    @ApiModelProperty(value="")
+    @ApiModelProperty(value="创建人")
     private Long createdBy;
 
     /**
@@ -203,8 +206,11 @@ public class ItripHotelOrder implements Serializable {
     @ApiModelProperty(value="支付完成时间")
     private Date modifyDate;
 
+    /**
+     * 修改人
+     */
     @TableField(value = "modified_by")
-    @ApiModelProperty(value="")
+    @ApiModelProperty(value="修改人")
     private Long modifiedBy;
 
     /**

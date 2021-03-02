@@ -65,20 +65,32 @@ public class ItripLabelDic implements Serializable {
     @ApiModelProperty(value="标签图片地址")
     private String pic;
 
+    /**
+     * 创建时间
+     */
     @TableField(value = "creation_date")
-    @ApiModelProperty(value="")
+    @ApiModelProperty(value="创建时间")
     private Date creationDate;
 
+    /**
+     * 创建人
+     */
     @TableField(value = "created_by")
-    @ApiModelProperty(value="")
+    @ApiModelProperty(value="创建人")
     private Long createdBy;
 
+    /**
+     * 修改时间
+     */
     @TableField(value = "modify_date")
-    @ApiModelProperty(value="")
+    @ApiModelProperty(value="修改时间")
     private Date modifyDate;
 
+    /**
+     * 修改人
+     */
     @TableField(value = "modified_by")
-    @ApiModelProperty(value="")
+    @ApiModelProperty(value="修改人")
     private Long modifiedBy;
 
     /**
