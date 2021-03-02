@@ -1,87 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c442e154-365f-4502-a863-6802b6998ddb" name="Default Changelist" comment="添加api标签">
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripAreaDic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripComment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelExtendProperty.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelFeature.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelRoom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelTempStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelTradingArea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripLabelDic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripOrderLinkUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripProductStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripTradeEnds.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripUserLinkUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripAreaDicMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripCommentMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelExtendPropertyMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelFeatureMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelOrderMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelRoomMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelTempStoreMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelTradingAreaMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripImageMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripLabelDicMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripOrderLinkUserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripProductStoreMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripTradeEndsMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripUserLinkUserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripUserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripAreaDicMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripCommentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelExtendPropertyMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelFeatureMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelOrderMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelRoomMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelTempStoreMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelTradingAreaMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripImageMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripLabelDicMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripOrderLinkUserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripProductStoreMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripTradeEndsMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripUserLinkUserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripUserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripAreaDicService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripCommentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelExtendPropertyService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelFeatureService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelOrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelRoomService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelTempStoreService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelTradingAreaService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripImageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripLabelDicService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripOrderLinkUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripProductStoreService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripTradeEndsService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripUserLinkUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripAreaDicServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripCommentServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelExtendPropertyServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelFeatureServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelOrderServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelRoomServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelTempStoreServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelTradingAreaServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripImageServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripLabelDicServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripOrderLinkUserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripProductStoreServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripTradeEndsServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripUserLinkUserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripUserServiceImpl.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripAreaDic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelExtendProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelTempStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripHotelTradingArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripLabelDic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripOrderLinkUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripProductStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripTradeEnds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-beans/src/main/java/com/cskt/entity/ItripUserLinkUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripAreaDicMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripCommentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelExtendPropertyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelFeatureMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelOrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelRoomMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelTempStoreMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripHotelTradingAreaMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripImageMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripLabelDicMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripOrderLinkUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripProductStoreMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripTradeEndsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripUserLinkUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/ItripUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripAreaDicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripCommentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelExtendPropertyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelFeatureMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelOrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelRoomMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelTempStoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripHotelTradingAreaMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripImageMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripLabelDicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripOrderLinkUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripProductStoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripTradeEndsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripUserLinkUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/mapper/xml/ItripUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripAreaDicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripCommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelExtendPropertyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelFeatureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelRoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelTempStoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripHotelTradingAreaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripImageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripLabelDicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripOrderLinkUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripProductStoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripTradeEndsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripUserLinkUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/ItripUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripAreaDicServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripCommentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelExtendPropertyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelFeatureServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelOrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelRoomServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelTempStoreServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripHotelTradingAreaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripImageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripLabelDicServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripOrderLinkUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripProductStoreServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripTradeEndsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripUserLinkUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itrip-dao/src/main/java/com/cskt/service/impl/ItripUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +185,8 @@
       <workItem from="1614394949159" duration="420000" />
       <workItem from="1614395382745" duration="668000" />
       <workItem from="1614396065860" duration="10811000" />
-      <workItem from="1614561174886" duration="17347000" />
+      <workItem from="1614561174886" duration="17553000" />
+      <workItem from="1614655436989" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="添加api标签">
       <created>1614653641039</created>
@@ -188,11 +209,29 @@
       <option name="project" value="LOCAL" />
       <updated>1614655151478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加api标签">
+      <created>1614655236785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614655236785</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
@@ -236,38 +275,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="542" y="109" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1614651188405" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1614650207789">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1614655414435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614650207789" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1614650207788">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614655414435" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1614655414435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614650207788" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1614650207787">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614655414435" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1614655414434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614650207787" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1614650207789">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614655414434" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1614655414435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614650207788" />
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1614650207789">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614655414435" />
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1614655414435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614650207789" />
-    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1614650207789">
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614655414435" />
+    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1614655414435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1614650207789" />
-    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1614650207789">
+    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1614655414435" />
+    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1614655414435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1614650207789" />
-    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1614650207789">
+    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1614655414435" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1614655414435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1614650207789" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1614655414435" />
     <state x="532" y="113" key="RollbackChangesDialog" timestamp="1614652982232">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
